@@ -1,2 +1,2 @@
 # jsampaiof.github.io
-repositorio teste - jornada dev EBAC
+Repositorio da jornada dev EBAC
